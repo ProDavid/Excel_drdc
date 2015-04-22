@@ -18,10 +18,6 @@ import jxl.write.WritableWorkbook;
  */
 public class JxlExpExcel
 {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args)
 	{
 		//表头数据
@@ -84,7 +80,5 @@ public class JxlExpExcel
 				}
 			}
 		}
-		
 	}
-
 }

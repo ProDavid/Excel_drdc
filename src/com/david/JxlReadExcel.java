@@ -16,10 +16,6 @@ import jxl.Workbook;
  */
 public class JxlReadExcel
 {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args)
 	{
 		//创建工作簿
@@ -57,5 +53,4 @@ public class JxlReadExcel
 			}
 		}
 	}
-
 }
